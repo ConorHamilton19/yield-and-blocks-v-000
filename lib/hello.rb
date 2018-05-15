@@ -8,4 +8,4 @@ end
 
 # call your method here!
 
-hello_t(aray)
+hello_t(array)
